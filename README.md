@@ -1,5 +1,5 @@
 # 概要
-ASGI web サーバーであるHypercornを使って、WISGである Django2を動かすためのリポジトリ  
+ASGI web サーバーであるHypercornを使って、WSGIである Django2を動かすためのリポジトリ  
 for PyCon mini Hiroshima  
 [Pycon mini Hiroshima](https://hiroshima.pycon.jp/2020/speaker/JunyaFff)  
 
