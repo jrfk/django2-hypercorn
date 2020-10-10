@@ -1,6 +1,7 @@
 # 概要
 ASGI web サーバーであるHypercornを使って、WISGである Django2を動かすためのリポジトリ  
-for Pycon mini Hiroshima
+for PyCon mini Hiroshima  
+[Pycon mini Hiroshima](https://hiroshima.pycon.jp/2020/speaker/JunyaFff)  
 
 Python 3.8.1 を利用
 
